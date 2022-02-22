@@ -1,4 +1,4 @@
-# SummerHack_Ad
+# Act3_SO2SimuladorBestFit
 Prueba de Repositorio 
 
 En esta repositorio se encuantas las katas ya realizadas del OnBoarding del programa de LaunchX impartida por InnovaccionVirtual powered by Microsoft
